@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    background-color: grey;
+    /* background-image: url(https://images.pexels.com/photos/1389429/pexels-photo-1389429.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1); */
+}
+header{
+    text-align: center;
+    color:rgb(245, 231, 174);
+}
+
+#container{
+    display: inline;
+}
+.head{
+    margin: 10px;
+    margin-left: 30px;
+}
